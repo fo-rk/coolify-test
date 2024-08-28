@@ -6,3 +6,4 @@
 <p>Visit <a href="https://kit.svelte.dev">kit.svelte.dev</a> to read the documentation</p>
 {data.time}
 <h1>OK!</h1>
+<h2>Here we are!</h2>
